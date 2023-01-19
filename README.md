@@ -5,7 +5,7 @@ I'm a student at NYU studying Computer Science + minoring in Web Programming & A
 - 🔭 I'm currently working on MyServiceHub which is a mobile(React Native)/web(ReactJS) app for connecting users to their local service providers
 - 🌱 I'm currently learning React Native
 - 📫 How to reach me: sotoruiz.emmanuel@gmail.com
-- ⚡ Fun fact: originall from Mexico City, Mexico <img width="3%" src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/mx.png" />
+- ⚡ Fun fact: originally from Mexico City, Mexico <img width="3%" src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/mx.png" />
 
 <a href="https://github.com/mannysotoruiz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mannysotoruiz&show_icons=true&hide=stars" />
