@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm a student at NYU studying Computer Science + minoring in Web Programming & Applications.
+I'm a new grad software engineer. I studied Computer Science + minored in Web Programming & Applications at NYU.
 
-- 🔭 I'm currently working on an app which is a mobile(React Native)/web(Next.js + TS) for connecting users to their local service providers
+- 🖥️ I am currently a Web Developer freelancer and I offer services in Web Development, Mobile App Development, UI/UX, and SEO 
+- 🔭 I'm currently working on an personal project which is a mobile(React Native)/web(Next.js + TS) app for connecting users to their local service providers
 - 🌱 I'm currently learning TypeScript 
 - 📫 How to reach me: sotoruiz.emmanuel@gmail.com
 - ⚡ Fun fact: originally from Mexico City, Mexico <img width="3%" src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/mx.png" />
