@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm a new grad software engineer. I studied Computer Science + minored in Web Programming & Applications at NYU.
 
