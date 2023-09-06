@@ -2,7 +2,7 @@
 
 I'm a new grad software engineer. I studied Computer Science + minored in Web Programming & Applications at NYU.
 
-- 🖥️ I am currently a Full-Stack Developer freelancer and I offer services in Web Development, Mobile App Development, UI/UX, and SEO 
+- 🖥️ I am currently a Full-Stack Developer freelancer and I offer services in Web Development, Mobile App Development, UI/UX, and SEO
 - 🔭 I'm currently working on a personal project which is a mobile(React Native)/web(Next.js + TS) app for connecting users to their local service providers
 - 🌱 I'm currently learning TypeScript 
 - 📫 How to reach me: sotoruiz.emmanuel@gmail.com
