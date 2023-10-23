@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a new grad software engineer. I studied Computer Science + minored in Web Programming & Applications at NYU.
+I'm a new grad software engineer and actively seeking Full-Time SWE roles. I studied Computer Science + minored in Web Programming & Applications at NYU.
 
 - 🖥️ I am currently a frelance Full-Stack Developer and I offer services in Web Development, Mobile App Development, API, and SEO
-- 🔭 I'm currently working on ContentFlowAI which is a content manegement system. Features also include live visual editing, no-code web builder, and AI generated content.
+- 🔭 I'm currently working on a SaaS product (ContentFlowAI) which is Headless CMS. Features also include live visual editing, no-code web builder, and AI generated content.
 - 📫 How to reach me: sotoruiz.emmanuel@gmail.com
 - ⚡ Fun fact: originally from Mexico City, Mexico <img width="3%" src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/mx.png" />
 
