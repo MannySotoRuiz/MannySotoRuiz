@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a new grad software engineer and actively seeking Full-Time SWE roles. I studied Computer Science + minored in Web Programming & Applications at NYU.
+I'm actively seeking Full-Time SWE roles. I studied Computer Science + minored in Web Programming & Applications at NYU.
 
 - 🖥️ I am currently a freelance Full-Stack Developer and I offer services in Web Development, Mobile App Development, API, and SEO
 - 📫 How to reach me: sotoruiz.emmanuel@gmail.com
